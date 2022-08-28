@@ -1,3 +1,19 @@
+
+## 팀명 : 아무고나대학교
+
+* 참가자 : 서보성, 이인규, 이충언, 김동완, 이지훈
+* 설명 : cctv 동선분석 및 관심도분석 , 얼굴 탐색 및 인지 프로세스
+* GUI (XD) :  https://xd.adobe.com/view/e24e5380-5151-4c0c-a28a-129463d48bf7-b71d/?fullscreen&hints=off
+---
+<img src="./img/히팅맵_실물배치.png" width="300px" height="300px" title="Github_Logo"/>
+
+
+<img src="./img/설명 키오스크2.png" width="300px" height="300px" title="Github_Logo"/>
+
+---
+
+
+
 tensorflow gpu를 사용하기 위해선 CUDA와 cuDNN이 필요하며 버젼은 아래와 같습니다
 - CUDA 10.1
 - cuDNN v7.6.5
